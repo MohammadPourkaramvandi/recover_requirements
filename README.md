@@ -1,5 +1,5 @@
 
-# recover_requirements# Python Requirements Recovery
+# Python Requirements Recovery
 
 A small Python utility that scans a directory containing multiple Python projects, finds Windows virtual environments (`venv` or `.venv`), and reconstructs a `requirements.txt` file from the package metadata available in each environment.
 
